@@ -1,8 +1,8 @@
 # Introduction aux méthodes Agile
 
-![2148513831.jpg](Introduction%20aux%20me%CC%81thodes%20Agile%2076ad073405bb4ea6b541b93d51be6701/2148513831.jpg)
+![2148513831.jpg](img/2148513831.jpg)
 
-![7273247_3610726.jpg](Introduction%20aux%20me%CC%81thodes%20Agile%2076ad073405bb4ea6b541b93d51be6701/7273247_3610726.jpg)
+![7273247_3610726.jpg](img/7273247_3610726.jpg)
 
 # Introduction aux Méthodes Agiles
 
@@ -125,7 +125,7 @@ Cette section détaille les différentes étapes de l'étude et de la conception
 | 📦 Produit | Liste de toutes les fonctionnalités souhaitées |
 | 🏃‍♂️ Sprint | Fonctionnalités sélectionnées pour le prochain sprint |
 
-![IC-Product-Backlog-Template-Example.png](Introduction%20aux%20me%CC%81thodes%20Agile%2076ad073405bb4ea6b541b93d51be6701/IC-Product-Backlog-Template-Example.png)
+![IC-Product-Backlog-Template-Example.png](img/IC-Product-Backlog-Template-Example.png)
 
 ### 📝 Cahier de recette
 
@@ -174,7 +174,7 @@ Cette section détaille les différentes étapes de l'étude et de la conception
 | 🚀 Release | Objectifs à long terme |
 | 🏃‍♂️ Sprint | Objectifs à court terme |
 
-![Release-Plan-Template.webp](Introduction%20aux%20me%CC%81thodes%20Agile%2076ad073405bb4ea6b541b93d51be6701/Release-Plan-Template.webp)
+![Release-Plan-Template.webp](img/Release-Plan-Template.webp)
 
 ## 3. De la théorie à la pratique : Cas d’étude
 
@@ -216,7 +216,7 @@ La création d'une backlog efficace nécessite une approche structurée et déta
     - Pour chaque fonctionnalité ou tâche identifiée, formulez des user stories qui décrivent les actions que les utilisateurs peuvent effectuer et les résultats attendus.
     - Assurez-vous que chaque user story suit le format "En tant que [persona], je veux [action], afin de [résultat]", en spécifiant clairement le persona concerné par chaque user story.
     
-    ![image5-6.webp](Introduction%20aux%20me%CC%81thodes%20Agile%2076ad073405bb4ea6b541b93d51be6701/image5-6.webp)
+    ![image5-6.webp](img/image5-6.webp)
     
 5. **Identification des personas (les acteurs) :** 👥
     - Identifiez les différents utilisateurs ou acteurs du système (personas) qui interagiront avec l'application.
@@ -295,9 +295,9 @@ Voici comment rendre la backlog INVEST :
 
 Cet élargissement du backlog favorise une planification stratégique et une mise en œuvre efficace des sprints, en s'assurant que l'application répond aux attentes de tous les utilisateurs concernés. 👍
 
-![sb-how-img2.webp](Introduction%20aux%20me%CC%81thodes%20Agile%2076ad073405bb4ea6b541b93d51be6701/sb-how-img2.webp)
+![sb-how-img2.webp](img/sb-how-img2.webp)
 
-![media_1deb291eded8f2482a4ff6761709704615d5076b6.png](Introduction%20aux%20me%CC%81thodes%20Agile%2076ad073405bb4ea6b541b93d51be6701/media_1deb291eded8f2482a4ff6761709704615d5076b6.png)
+![media_1deb291eded8f2482a4ff6761709704615d5076b6.png](img/media_1deb291eded8f2482a4ff6761709704615d5076b6.png)
 
 ## Cahier de Recette pour l'Application de Commande de Repas en Ligne
 
@@ -373,4 +373,4 @@ Ce tableau détaillé permet une visualisation claire des tests à réaliser et 
 | Sprint 1 | Mise en place des fonctionnalités de base et login. |
 | Sprint 2 | Intégration de la sélection de menu et du panier d'achat. |
 
-![11683644_4737427.jpg](Introduction%20aux%20me%CC%81thodes%20Agile%2076ad073405bb4ea6b541b93d51be6701/11683644_4737427.jpg)
+![11683644_4737427.jpg](img/11683644_4737427.jpg)
